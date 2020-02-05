@@ -6,7 +6,12 @@ namespace Gene_SiminsExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+                GriseldaMembers BennyTheButcher = new GriseldaMembers("Benny The Butcher");
+                GriseldaMembers WestSideGunn = new GriseldaMembers("West Side Gunn");
+                GriseldaMembers ConwayTheMachine = new GriseldaMembers("Conway The Machine");
+                GriseldaMembers Daringer = new GriseldaMembers("Daringer");
+            
         }
     }
 }
