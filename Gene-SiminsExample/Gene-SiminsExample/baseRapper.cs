@@ -12,6 +12,7 @@ namespace Gene_SiminsExample
         //Boolean is a true and false variable. Yes or no.
         public string Rap()
         {
+            //this is jamess change
             //a string method is a method that is expected to return words
             return "Waaz up bitchas";
         }
